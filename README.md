@@ -2,7 +2,7 @@
 This is captcha solver GUI that can identify handwritten captchas both alphabets and numerics using deep-learning
 
 # Usage:
-Run submission.py to predict captcha with python2.7
+Run submission.py to predict captcha
 
 # GUI Images:
 ![Screenshot 2020-04-04 at 5 27 11 PM](https://user-images.githubusercontent.com/43948945/78450140-0807ee00-769a-11ea-9694-db72465e3aa5.png)
