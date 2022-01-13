@@ -4,5 +4,5 @@ numpy==1.16.6
 matplotlib==2.2.5
 python==2.7.16
 tkinter==8.5
-Pillow==6.2.2
+Pillow==9.0.0
 
